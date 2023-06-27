@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatToIntegral", "FloatToIntegral.csproj", "{BE073974-4405-4FD2-8E47-6CB2608B1323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE073974-4405-4FD2-8E47-6CB2608B1323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE073974-4405-4FD2-8E47-6CB2608B1323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE073974-4405-4FD2-8E47-6CB2608B1323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE073974-4405-4FD2-8E47-6CB2608B1323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4C6CFFB-FCE6-4520-A8CB-2465A44E81B9}
+	EndGlobalSection
+EndGlobal

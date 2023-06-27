@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\bin\Debug\net7.0\Object.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\bin\Debug\net7.0\Object.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\bin\Debug\net7.0\Object.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\bin\Debug\net7.0\Object.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\bin\Debug\net7.0\Object.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\refint\Object.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\Object.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Object\obj\Debug\net7.0\ref\Object.dll
