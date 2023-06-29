@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\bin\Debug\net7.0\StringSlice.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\bin\Debug\net7.0\StringSlice.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\bin\Debug\net7.0\StringSlice.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\bin\Debug\net7.0\StringSlice.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\bin\Debug\net7.0\StringSlice.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\refint\StringSlice.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\StringSlice.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringSlice\obj\Debug\net7.0\ref\StringSlice.dll

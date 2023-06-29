@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\bin\Debug\net7.0\UsingVar.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\bin\Debug\net7.0\UsingVar.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\bin\Debug\net7.0\UsingVar.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\bin\Debug\net7.0\UsingVar.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\bin\Debug\net7.0\UsingVar.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\refint\UsingVar.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\UsingVar.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\UsingVar\obj\Debug\net7.0\ref\UsingVar.dll

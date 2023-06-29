@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\bin\Debug\net7.0\CTS.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\bin\Debug\net7.0\CTS.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\bin\Debug\net7.0\CTS.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\bin\Debug\net7.0\CTS.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\bin\Debug\net7.0\CTS.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\refint\CTS.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\CTS.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\CTS\obj\Debug\net7.0\ref\CTS.dll

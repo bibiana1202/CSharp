@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\bin\Debug\net7.0\StringModify.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\bin\Debug\net7.0\StringModify.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\bin\Debug\net7.0\StringModify.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\bin\Debug\net7.0\StringModify.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\bin\Debug\net7.0\StringModify.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\refint\StringModify.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\StringModify.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringModify\obj\Debug\net7.0\ref\StringModify.dll

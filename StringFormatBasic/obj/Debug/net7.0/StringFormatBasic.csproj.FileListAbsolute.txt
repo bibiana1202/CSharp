@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\bin\Debug\net7.0\StringFormatBasic.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\refint\StringFormatBasic.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\StringFormatBasic.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\StringFormatBasic\obj\Debug\net7.0\ref\StringFormatBasic.dll
