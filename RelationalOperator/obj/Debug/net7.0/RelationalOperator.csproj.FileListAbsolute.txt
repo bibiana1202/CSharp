@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\bin\Debug\net7.0\RelationalOperator.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\bin\Debug\net7.0\RelationalOperator.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\bin\Debug\net7.0\RelationalOperator.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\bin\Debug\net7.0\RelationalOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\bin\Debug\net7.0\RelationalOperator.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\refint\RelationalOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\RelationalOperator.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\RelationalOperator\obj\Debug\net7.0\ref\RelationalOperator.dll

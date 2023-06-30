@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\bin\Debug\net7.0\IncDecOperator.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\bin\Debug\net7.0\IncDecOperator.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\bin\Debug\net7.0\IncDecOperator.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\bin\Debug\net7.0\IncDecOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\bin\Debug\net7.0\IncDecOperator.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\refint\IncDecOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\IncDecOperator.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\IncDecOperator\obj\Debug\net7.0\ref\IncDecOperator.dll

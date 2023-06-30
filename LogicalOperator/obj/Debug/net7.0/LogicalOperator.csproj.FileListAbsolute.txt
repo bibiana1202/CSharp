@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\bin\Debug\net7.0\LogicalOperator.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\bin\Debug\net7.0\LogicalOperator.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\bin\Debug\net7.0\LogicalOperator.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\bin\Debug\net7.0\LogicalOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\bin\Debug\net7.0\LogicalOperator.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\refint\LogicalOperator.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\LogicalOperator.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\LogicalOperator\obj\Debug\net7.0\ref\LogicalOperator.dll
