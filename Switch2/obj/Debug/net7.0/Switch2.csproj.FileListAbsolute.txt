@@ -1,0 +1,15 @@
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\bin\Debug\net7.0\Switch2.exe
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\bin\Debug\net7.0\Switch2.deps.json
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\bin\Debug\net7.0\Switch2.runtimeconfig.json
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\bin\Debug\net7.0\Switch2.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\bin\Debug\net7.0\Switch2.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.csproj.AssemblyReference.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.AssemblyInfoInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.AssemblyInfo.cs
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.csproj.CoreCompileInputs.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\refint\Switch2.dll
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.pdb
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\Switch2.genruntimeconfig.cache
+C:\Users\ParkHyeJung\source\repos\CSharp\Switch2\obj\Debug\net7.0\ref\Switch2.dll
